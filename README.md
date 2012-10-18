@@ -3,9 +3,9 @@ mb_install
 
 
 
--DropBox
+- DropBox
 
--ClipMenu - clibboard menu.
+- ClipMenu - clibboard menu.
 Alfred - shortcuts
 Adium - aim
 iStumber - wifi networks
